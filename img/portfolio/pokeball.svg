@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="504px" height="500px" viewBox="0 0 504 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PokeBall</title>
+    <defs>
+        <linearGradient x1="46.9517865%" y1="56.3820809%" x2="19.2110977%" y2="41.0381094%" id="linearGradient-1">
+            <stop stop-color="#FF0000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PokeBall" transform="translate(2.869583, 2.000000)" stroke="#000000">
+            <path d="M249.130417,267 C380.128867,267 487.594646,367.755344 498.260834,495.999114 L-3.73034936e-14,495.999114 C10.6661887,367.755344 118.131967,267 249.130417,267 Z" id="Ball-Bottom-Half" stroke-width="3" fill="#FFFFFF" transform="translate(249.130417, 381.499557) rotate(180.000000) translate(-249.130417, -381.499557) "></path>
+            <path d="M250.130417,9.9475983e-14 C381.128867,9.9475983e-14 488.594646,100.755344 499.260834,228.999114 L1,228.999114 C11.6661887,100.755344 119.131967,9.9475983e-14 250.130417,9.9475983e-14 Z" id="Ball-Top-Half" stroke-width="3" fill="url(#linearGradient-1)"></path>
+            <rect id="Ball-Spacing" fill="#000000" x="4.63041712" y="228.5" width="489" height="39"></rect>
+            <circle id="Ball-Button-Spacing" fill="#000000" cx="249.130417" cy="250" r="80"></circle>
+            <circle id="Outer-Button" fill="#FFFFFF" cx="249.130417" cy="250" r="65"></circle>
+            <circle id="Button" stroke-width="2" fill="#FFFFFF" cx="249.130417" cy="250" r="45"></circle>
+        </g>
+    </g>
+</svg>
